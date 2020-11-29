@@ -117,6 +117,7 @@ void Widget::on_pbReturnMoney_clicked()
         {
             getsu[3]++;
             tmp-=10;
+            //test 추가 되나?
         }
     }
     money=0;
